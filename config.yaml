@@ -26,10 +26,14 @@ keywords:
     filters: ["Robot Manipulation", "Robotic Manipulation", "Grasp"]
   "Vision Language Action Model":
     filters: ["Vision-Language-Action Model", "Vision Language Action Model", "VLA", "VLAs", "VLA Models"]
-  "Imitation Learning":
-    filters: ["Imitation Learning", "Behavior Cloning", "Behavioral Cloning"]
-  # "Robotic Navigation":
-  #   filters: ["Robot Navigation", "Vision-and-Language Navigation", "Vision Language Navigation", "Vision-Language-Navigation"]
+  # "Imitation Learning":
+  #   filters: ["Imitation Learning", "Behavior Cloning", "Behavioral Cloning"]
+  "Vision Language Navigation":
+    filters: ["Robot Navigation", "Vision-and-Language Navigation", "Vision Language Navigation", "Vision-Language-Navigation"]
+  "Reinforcement Learning":
+    filters: ["Reinforcement Learning", "RL", "RLs"]
+# "Robotic Navigation":
+#   filters: ["Robot Navigation", "Vision-and-Language Navigation", "Vision Language Navigation", "Vision-Language-Navigation"]
 #   "DA & DG":
 #     filters: ["Domain Adaptation", "Unsupervised Domain Adaptation", "Source-free Domain Adaptation", "Test-time Domain Adaptation",
 #       "Domain Generalization", "Source-free Domain Generalization", "Test-time Domain Generalization"]
